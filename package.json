@@ -1,0 +1,24 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "my first web app with mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "demo01"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gniria/node-demo01"
+  },
+  "keywords": [
+    "nodejs",
+    "demo01",
+    "mysql"
+  ],
+  "author": "Gniria",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  }
+}
